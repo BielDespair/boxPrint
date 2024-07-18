@@ -1,0 +1,121 @@
+{
+    "styles": {
+        "simple": {
+            "offset": 2,
+            "top_left_decor": "┌",
+            "top_right_decor": "┐",
+            "bottom_left_decor": "└",
+            "bottom_right_decor": "┘",
+            "vertical_decor": "│",
+            "horizontal_decor": "─"
+        },
+        "fancy": {
+            "offset": 2,
+            "top_left_decor": "╔",
+            "top_right_decor": "╗",
+            "bottom_left_decor": "╚",
+            "bottom_right_decor": "╝",
+            "vertical_decor": "║",
+            "horizontal_decor": "═"
+        },
+        "ascii": {
+            "offset": 2,
+            "top_left_decor": "+",
+            "top_right_decor": "+",
+            "bottom_left_decor": "+",
+            "bottom_right_decor": "+",
+            "vertical_decor": "|",
+            "horizontal_decor": "-"
+        },
+        "bars": {
+            "offset": 2,
+            "top_left_decor": "/",
+            "top_right_decor": "\\",
+            "bottom_left_decor": "\\",
+            "bottom_right_decor": "/",
+            "vertical_decor": "|",
+            "horizontal_decor": "-"
+        },
+        "rounded": {
+            "offset": 2,
+            "top_left_decor": "╭",
+            "top_right_decor": "╮",
+            "bottom_left_decor": "╰",
+            "bottom_right_decor": "╯",
+            "vertical_decor": "│",
+            "horizontal_decor": "─"
+        },
+        "dark": {
+            "offset": 2,
+            "top_left_decor": "┏",
+            "top_right_decor": "┓",
+            "bottom_left_decor": "┗",
+            "bottom_right_decor": "┛",
+            "vertical_decor": "┃",
+            "horizontal_decor": "━"
+        },
+        "hashed": {
+            "offset": 2,
+            "top_left_decor": "#",
+            "top_right_decor": "#",
+            "bottom_left_decor": "#",
+            "bottom_right_decor": "#",
+            "vertical_decor": "#",
+            "horizontal_decor": "#"
+        },
+        "dotted": {
+            "offset": 2,
+            "top_left_decor": ".",
+            "top_right_decor": ".",
+            "bottom_left_decor": ".",
+            "bottom_right_decor": ".",
+            "vertical_decor": ".",
+            "horizontal_decor": "."
+        },
+        "heart1": {
+            "offset": 2,
+            "top_left_decor": "♥",
+            "top_right_decor": "♥",
+            "bottom_left_decor": "♥",
+            "bottom_right_decor": "♥",
+            "vertical_decor": "♥",
+            "horizontal_decor": "♥"
+        },
+        "heart2": {
+            "offset": 2,
+            "top_left_decor": "❤",
+            "top_right_decor": "❤",
+            "bottom_left_decor": "❤",
+            "bottom_right_decor": "❤",
+            "vertical_decor": "❤",
+            "horizontal_decor": "❤"
+        },
+        "blocks": {
+            "offset": 2,
+            "top_left_decor": "▓",
+            "top_right_decor": "▓",
+            "bottom_left_decor": "▓",
+            "bottom_right_decor": "▓",
+            "vertical_decor": "▓",
+            "horizontal_decor": "▓"
+        },
+        "blocks2": {
+            "offset": 2,
+            "top_left_decor": "█",
+            "top_right_decor": "█",
+            "bottom_left_decor": "█",
+            "bottom_right_decor": "█",
+            "vertical_decor": "█",
+            "horizontal_decor": "█"
+        },
+        "blocks3": {
+            "offset": 2,
+            "top_left_decor": "░",
+            "top_right_decor": "░",
+            "bottom_left_decor": "░",
+            "bottom_right_decor": "░",
+            "vertical_decor": "░",
+            "horizontal_decor": "░"
+        }
+    }
+}
