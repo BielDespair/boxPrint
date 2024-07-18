@@ -12,11 +12,11 @@ O boxPrint é uma função Python que imprime texto dentro de uma caixa decorati
 * Baixe o arquivo .zip e extraia 'boxPrint.py' e 'styles.json' para a mesma pasta aonde deseja usar.
 * Faça a importação:
   ```python
-  from boxPrint.py import boxPrint
+  from boxPrint import boxPrint
   ```
 ## Exemplos
 ```python
-from boxPrint.py import boxPrint
+from boxPrint import boxPrint
 
 #Para imprimir com as opções padrões
 boxPrint("Hello World!")
